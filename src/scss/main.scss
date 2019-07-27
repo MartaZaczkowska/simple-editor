@@ -10,7 +10,10 @@ html {
   box-sizing: inherit;
 }
 
-body {
-  color: $yellow;
-  background: $violet;
+.header {
+  position: absolute;
+width: 352px;
+height: 100px;
+left: 640px;
+top: 72px;
 }
